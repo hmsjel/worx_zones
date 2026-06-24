@@ -1,0 +1,6 @@
+{
+  "name": "Worx Zone Control",
+  "content_in_root": false,
+  "domains": ["worx_zones"],
+  "homeassistant": "2023.1.0"
+}
